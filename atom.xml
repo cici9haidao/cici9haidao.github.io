@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://cecelia-bot.github.io</id>
+    <id>http://cici9haidao.github.io</id>
     <title>我的学习小天地</title>
-    <updated>2019-11-24T03:44:26.111Z</updated>
+    <updated>2019-11-24T04:01:53.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://cecelia-bot.github.io"/>
-    <link rel="self" href="http://cecelia-bot.github.io/atom.xml"/>
+    <link rel="alternate" href="http://cici9haidao.github.io"/>
+    <link rel="self" href="http://cici9haidao.github.io/atom.xml"/>
     <subtitle>笔记-测试</subtitle>
-    <logo>http://cecelia-bot.github.io/images/avatar.png</logo>
-    <icon>http://cecelia-bot.github.io/favicon.ico</icon>
+    <logo>http://cici9haidao.github.io/images/avatar.png</logo>
+    <icon>http://cici9haidao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 我的学习小天地</rights>
     <entry>
         <title type="html"><![CDATA[软件测试]]></title>
-        <id>http://cecelia-bot.github.io/post/wang-xiao-bo</id>
-        <link href="http://cecelia-bot.github.io/post/wang-xiao-bo">
+        <id>http://cici9haidao.github.io/post/wang-xiao-bo</id>
+        <link href="http://cici9haidao.github.io/post/wang-xiao-bo">
         </link>
         <updated>2019-11-23T16:07:27.000Z</updated>
         <content type="html"><![CDATA[<p>我现在大三了，我想从事软件测试这个行业。</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Jason]]></title>
-        <id>http://cecelia-bot.github.io/post/jason</id>
-        <link href="http://cecelia-bot.github.io/post/jason">
+        <id>http://cici9haidao.github.io/post/jason</id>
+        <link href="http://cici9haidao.github.io/post/jason">
         </link>
         <updated>2019-11-23T15:52:36.000Z</updated>
         <content type="html"><![CDATA[<p>你好</p>
