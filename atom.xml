@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://cici9haidao.github.io</id>
     <title>我的学习小天地</title>
-    <updated>2019-11-24T04:24:41.063Z</updated>
+    <updated>2019-12-01T05:50:26.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://cici9haidao.github.io"/>
     <link rel="self" href="http://cici9haidao.github.io/atom.xml"/>
@@ -10,6 +10,78 @@
     <logo>http://cici9haidao.github.io/images/avatar.png</logo>
     <icon>http://cici9haidao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 我的学习小天地</rights>
+    <entry>
+        <title type="html"><![CDATA[十二月是一个新的开始]]></title>
+        <id>http://cici9haidao.github.io/post/shi-er-yue-shi-yi-ge-xin-de-kai-shi</id>
+        <link href="http://cici9haidao.github.io/post/shi-er-yue-shi-yi-ge-xin-de-kai-shi">
+        </link>
+        <updated>2019-12-01T05:42:35.000Z</updated>
+        <summary type="html"><![CDATA[<p>我们总是在每一个月的新开端是新的开始，多么的好，多么的振奋人心的一个新的月份。<br>
+没错🤗<br>
+是很好，虽然我们都知道其实都一样，但是自我鼓舞是很重要的。😶<br>
+刚刚学完了python的课，很短的课程时间，仅仅五天，但是我觉得不算浪费了我的时间，我了解了python，但是总归是很零碎的很零散的知识点，还没有那个能力把知识都拼接在一起，我要做的是深化知识，路漫漫其修远兮。😤<br>
+十二月总归还是有目标的，那么就是每天除了上课时间我都去图书馆，晚上去的时候不带手机，只带电脑和书本。白天上午去健身房，只要坚持这个冬天我能行！下午就去图书馆。学习软件测试，学习python。明年三月的春招我要去投简历，并且我要拿到offer，我暑假一定要实习，然后大四直接去实习，然后毕业直接上班。<br>
+还有十天教资就会出结果了，whatever，我希望我能过，这样子我能准备面试，然后拿到教师资格证初级英语。我发现自己说话真的是没有任何语序可言：）🤡<br>
+但是只要自己看到的懂就好了嘛！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>我们总是在每一个月的新开端是新的开始，多么的好，多么的振奋人心的一个新的月份。<br>
+没错🤗<br>
+是很好，虽然我们都知道其实都一样，但是自我鼓舞是很重要的。😶<br>
+刚刚学完了python的课，很短的课程时间，仅仅五天，但是我觉得不算浪费了我的时间，我了解了python，但是总归是很零碎的很零散的知识点，还没有那个能力把知识都拼接在一起，我要做的是深化知识，路漫漫其修远兮。😤<br>
+十二月总归还是有目标的，那么就是每天除了上课时间我都去图书馆，晚上去的时候不带手机，只带电脑和书本。白天上午去健身房，只要坚持这个冬天我能行！下午就去图书馆。学习软件测试，学习python。明年三月的春招我要去投简历，并且我要拿到offer，我暑假一定要实习，然后大四直接去实习，然后毕业直接上班。<br>
+还有十天教资就会出结果了，whatever，我希望我能过，这样子我能准备面试，然后拿到教师资格证初级英语。我发现自己说话真的是没有任何语序可言：）🤡<br>
+但是只要自己看到的懂就好了嘛！</p>
+<!-- more -->
+<p>未来的路两条：1.软件测试2.英语老师<br>
+坚定了目标，实行起来就不会再迷茫了，一鼓作气！🕶</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试级别]]></title>
+        <id>http://cici9haidao.github.io/post/ce-shi-ji-bie</id>
+        <link href="http://cici9haidao.github.io/post/ce-shi-ji-bie">
+        </link>
+        <updated>2019-11-24T04:31:27.000Z</updated>
+        <content type="html"><![CDATA[<p>测试级别/阶段（面试）</p>
+<ol>
+<li>单元测试：针对被测系统最小的组成单元实施的测试活动，一般是类或函数，也可能是最小的功能单元。单元测试最多能发现80%的缺陷。<br>
+例：构成自行车的每一个组件我们都可以认为是每一个功能单元。在组建单车的时候我们需要考虑每个组件是否OK</li>
+<li>集成测试：更对单元测试来说更高级。针对组件或单元与组件或单元之间的接口实施的测试活动，验证接口设计是否与设计相符。<br>
+分三种集成：函数间集成；模块间集成；子系统间集成。<br>
+3.系统测试：（主要关注）将通过集成测试的软件，部署在真实的的用户环境下执行测试。目的：验证软件与用户需求是否一致。最能反映用户需求。相对来说：效率最<br>
+4.验收测试：以用户为主的测试，验收组应当由项目组成员、用户代表组成。<br>
+面试过程中分为α测试、β测试、UAT测试。<br>
+α测试：由用户在开发环境下执行的测试活动，开发者在测试人员身边，发现问题及时解决；在受控环境下执行测试<br>
+β测试：开发者不在测试人员身边，发现问题由专人统一收集，再由研发人员进行修改；在不受控环境下执行测试<br>
+UAT测试：用户接受度测试，一般商业用户验证系统可能性的测试</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试定义、原则以及对象]]></title>
+        <id>http://cici9haidao.github.io/post/ce-shi-ding-yi-yuan-ze-yi-ji-dui-xiang</id>
+        <link href="http://cici9haidao.github.io/post/ce-shi-ding-yi-yuan-ze-yi-ji-dui-xiang">
+        </link>
+        <updated>2019-11-24T04:30:48.000Z</updated>
+        <content type="html"><![CDATA[<p>测试定义：通过人工或自动的手段，对被测对象进行检测的活动，目的在于发现被测对象是否实现用户的需求，或者弄清实际结果与预期结果之间的差异<br>
+测试原则：<br>
+	测试证明软件存在缺陷<br>
+	不可能执行穷尽测试（有环境的影响）<br>
+	测试应尽早启动，尽早介入<br>
+	缺陷存在群集现象（大部分的缺陷是集中在20%的功能上）<br>
+	杀虫剂驳论（第一次发现的问题给程序员发现了之后，改了之后，第二次找这个问题就找不到了。所以说要用不同的方法去测试。从多个因素考虑多个问题）<br>
+	不同的测试活动依赖不同的测试背景（例如金融和电商的思路和要求不一样）<br>
+	不存在缺陷的谬论（一个产品即使一个缺陷都没有，如果不满足用户需求，没有用户群体，都没有用）<br>
+测试对象<br>
+	软件源代码<br>
+	与软件源代码匹配的文档<br>
+	支撑软件源代码运行的配置数据<br>
+	需求阶段：需求文档，测试需求文档是否满足用户要求<br>
+	系统设计阶段：1.概要设计文档2.详细设计文档3.是否有设计或逻辑上的错误<br>
+	编码阶段：测试源代码，发现编程上的错误<br>
+	系统测试阶段：是否满足用户需求</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bug]]></title>
         <id>http://cici9haidao.github.io/post/bug</id>
